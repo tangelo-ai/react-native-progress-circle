@@ -33,6 +33,7 @@
   "peerDependencies": {
     "react-native": "*",
     "react": "*",
-    "prop-types": "*"
+    "prop-types": "*",
+    "deprecated-react-native-prop-types": "*"
   }
 }
